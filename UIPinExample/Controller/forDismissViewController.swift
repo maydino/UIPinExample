@@ -7,7 +7,7 @@
 
 import UIKit
 
-class AfterPinViewController: UIViewController {
+class forDismissViewController: UIViewController {
 
     let dismissButton : UIButton = {
        

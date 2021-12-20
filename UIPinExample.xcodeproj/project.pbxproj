@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A642FD24FACD9BBF341ECC49 /* Pods_UIPinExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A37D2030577E2B66BB4F2656 /* Pods_UIPinExample.framework */; };
-		B152643E276D8019001AD84C /* AfterPinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B152643D276D8019001AD84C /* AfterPinViewController.swift */; };
+		B152643E276D8019001AD84C /* forDismissViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B152643D276D8019001AD84C /* forDismissViewController.swift */; };
 		B1D7E770276D7B5C0057E92A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D7E76F276D7B5C0057E92A /* AppDelegate.swift */; };
 		B1D7E772276D7B5C0057E92A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D7E771276D7B5C0057E92A /* SceneDelegate.swift */; };
 		B1D7E774276D7B5C0057E92A /* PinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D7E773276D7B5C0057E92A /* PinViewController.swift */; };
@@ -19,7 +19,7 @@
 /* Begin PBXFileReference section */
 		36272891BFAE93A06B565D71 /* Pods-UIPinExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UIPinExample.release.xcconfig"; path = "Target Support Files/Pods-UIPinExample/Pods-UIPinExample.release.xcconfig"; sourceTree = "<group>"; };
 		A37D2030577E2B66BB4F2656 /* Pods_UIPinExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UIPinExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B152643D276D8019001AD84C /* AfterPinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfterPinViewController.swift; sourceTree = "<group>"; };
+		B152643D276D8019001AD84C /* forDismissViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = forDismissViewController.swift; sourceTree = "<group>"; };
 		B1D7E76C276D7B5C0057E92A /* UIPinExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIPinExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1D7E76F276D7B5C0057E92A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B1D7E771276D7B5C0057E92A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,7 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				B1D7E773276D7B5C0057E92A /* PinViewController.swift */,
-				B152643D276D8019001AD84C /* AfterPinViewController.swift */,
+				B152643D276D8019001AD84C /* forDismissViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -216,7 +216,7 @@
 				B1D7E774276D7B5C0057E92A /* PinViewController.swift in Sources */,
 				B1D7E770276D7B5C0057E92A /* AppDelegate.swift in Sources */,
 				B1D7E772276D7B5C0057E92A /* SceneDelegate.swift in Sources */,
-				B152643E276D8019001AD84C /* AfterPinViewController.swift in Sources */,
+				B152643E276D8019001AD84C /* forDismissViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
